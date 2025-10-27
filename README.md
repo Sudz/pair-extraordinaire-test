@@ -49,9 +49,11 @@
 
 > **Note:** Achievement tiers are unlocked sequentially by earning accepted answers in GitHub Community Discussions. Each tier represents increasing levels of contribution and expertise.
 
-- **Quasar (Tier 6)**: 3 accepted answers
-- **Supernova (Tier 7)**: 4 accepted answers
-- **Hypernova (Tier 8)**: 5 accepted answers
+| Tier | Badge | Accepted Answers Required |
+|------|-------|---------------------------|
+| Tier 6 | **Quasar** | 3 |
+| Tier 7 | **Supernova** | 4 |
+| Tier 8 | **Hypernova** | 5 |
 
 ---
 
