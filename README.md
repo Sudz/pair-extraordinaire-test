@@ -46,6 +46,9 @@
 ---
 
 ### 🚀 Future Tiers:
+
+> **Note:** Achievement tiers are unlocked sequentially by earning accepted answers in GitHub Community Discussions. Each tier represents increasing levels of contribution and expertise.
+
 - **Quasar (Tier 6)**: 3 accepted answers
 - **Supernova (Tier 7)**: 4 accepted answers
 - **Hypernova (Tier 8)**: 5 accepted answers
@@ -56,4 +59,3 @@
 **Status**: ✅ In Progress - Answer Posted
 
 ### Details:
-- **Discussion URL**: https://github.com/ruvnet/claude-flow/discussions/834
